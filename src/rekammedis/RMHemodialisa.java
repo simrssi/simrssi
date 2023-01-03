@@ -623,7 +623,7 @@ public final class RMHemodialisa extends javax.swing.JDialog {
 
         FormInput.setBackground(new java.awt.Color(250, 255, 245));
         FormInput.setName("FormInput"); // NOI18N
-        FormInput.setPreferredSize(new java.awt.Dimension(100, 600));
+        FormInput.setPreferredSize(new java.awt.Dimension(100, 625));
         FormInput.setVerifyInputWhenFocusTarget(false);
         FormInput.setLayout(null);
 
